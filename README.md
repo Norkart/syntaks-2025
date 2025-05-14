@@ -3,6 +3,8 @@
 ## Om dette repositoriet
 Dette repositoriet inneholder kodeeksempler og demoer som ble presentert på Syntaks-konferansen i Kristiansand den 8. mai 2025. Materialet er gjort tilgjengelig for gjennomsyn og egen testing.
 
+Slides til foredraget finner du her: https://docs.google.com/presentation/d/1y9gTZ-Flp0-kMpTzh5OK4P9tWIiwcz4IhKpTj2kQM90/edit?usp=sharing
+
 ## Innhold
 Repositoriet inneholder følgende demoer og kodeeksempler:
 - **FlatGeobuf eksempler** - Demonstrasjon av FlatGeobuf formatet for geografiske data, inkludert eksempel-kode i Python og HTML
